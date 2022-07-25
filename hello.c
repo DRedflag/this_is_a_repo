@@ -4,7 +4,7 @@
 int main(){
     printf("Hello, World!\n");
 
-    say_hi();
+    say_hi(6);
     printf("Do some shenanigans so git cannot recognize this anymore!!\n");
     return 0;
 }
