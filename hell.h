@@ -3,5 +3,5 @@
 
 #define HELL "Hello, hell!"
 
-void say_hi();
+void say_hi(int i/);
 #endif
